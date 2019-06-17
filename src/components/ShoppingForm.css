@@ -1,0 +1,23 @@
+.shopping-form.ui.form {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.shopping-form.ui.form .field {
+  margin-bottom: 5px;
+}
+
+.shopping-form.ui.form .field input {
+  background: #FCF6BD;
+}
+
+.shopping-form.ui.form button {
+  background: #114B5F;
+  color: white;
+  margin: 0;
+}
+
+.shopping-form.ui.form button:hover {
+  background: #2C363F;
+}

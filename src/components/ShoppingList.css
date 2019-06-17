@@ -1,0 +1,13 @@
+.shopping-list ul {
+  list-style-type: none;
+  padding: 10px 20px;
+}
+
+.shopping-list ul li {
+  margin-bottom: 5px;
+}
+
+.shopping-list ul li span {
+  background: #FCF6BD;
+  padding: 2px;
+}
